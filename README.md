@@ -1,5 +1,5 @@
 # Leads-Saver
-This is an chrome extension which can be used as an link or leads saver. This extension uses Chrome API and stores all of the data in localstorage.
+This is an chrome extension which can be used as an link or leads saver. This extension uses Chrome API and stores all of the data in localstorage.As This extension is built with Chrome API it only works on Chrome. But you can test it on Github Pages as well.
 <img src="Extension.png"> 
 
 To use this extension you can follow the following steps:
